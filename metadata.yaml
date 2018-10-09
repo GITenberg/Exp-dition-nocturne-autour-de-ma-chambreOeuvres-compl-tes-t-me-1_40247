@@ -29,5 +29,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'French literature'
 - !lcc 'PQ'
+- GITenberg
 title: Expédition nocturne autour de ma chambre
 url: http://www.gutenberg.org/ebooks/40247
